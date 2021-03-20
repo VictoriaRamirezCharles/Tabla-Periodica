@@ -1,3 +1,3 @@
 # Tabla-Periodica
 
-![Capture](https://user-images.githubusercontent.com/38332341/111856425-e92d5680-8900-11eb-84d6-843606f7ee52.JPG)
+![Capture](https://user-images.githubusercontent.com/38332341/111856698-ecc1dd00-8902-11eb-93b2-0c260cd21479.JPG)
