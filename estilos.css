@@ -15,8 +15,18 @@ h1, h2{
 
 
 .td-table {
-  padding: 22px;
-  text-align: center;
+    padding: 22px;
+    text-align: center;
+    border: dotted #1b1a1a 2px;
+
+}
+.td-table:hover {
+
+  -webkit-transform: scale(2, 2);
+  -ms-transform: scale(2, 2);
+  transform: scale(2, 2);
+
+
 }
 .alcalinos {
   background-color: #bfa1c7;
